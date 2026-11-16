@@ -1,21 +1,17 @@
-# Hi, I’m Bob. I build things you can step into.
+# Hi, I’m Bob.
 
-I’m interested in what happens when research, storytelling and interactive design meet. I use AI, code and a lot of experimentation to turn ideas into experiences people can explore, then I watch people play, listen, and build it again.
+[**Step into Bob’s Room →**](https://bobs-room.vercel.app/)
 
-## Three tries at one question
+I made my homepage a little pixel room you can walk through. It’s a better introduction than a résumé: poke around and you’ll find the things I’m curious about, the places I call home, and what I’m building. You can also follow the [Career Atlas](https://bobs-room.vercel.app/careers/), a source-linked internship dashboard for Hong Kong and Mainland China.
 
-This term, for a leadership course, a small team and I kept asking: *how do you let someone practise leading before it’s for real?* We answered it three times.
+I study Global Health and Development at HKU. I like taking a question that sounds abstract on a slide and giving someone a way to try it for themselves.
 
-- **Team Quest**, a teammate’s first prototype, scored you: two meters, rapport and energy, and a chart of your leadership style. It taught us that leading is always spending trust and stamina.
-- [**Six Flights**](https://six-flights.vercel.app): a playable illustrated notebook. You inherit a rooftop film night, make three decisions over one week, and find out who ended up carrying what. No score; the only feedback is what the others write in your notebook afterwards. Painted in gouache, with a 6-minute behind-the-scenes film from the four of us that opens before the game.
-- [**Asterwind**](https://asterwind.vercel.app): a painted studio after hours, where each drink in the machine holds one story. You’re in the room this time: you choose who to listen to, build the hard sentence yourself, and see how the person it costs responds.
+## What else I’m making
 
-Underneath all three: *what is it like to be led by you?*
-
-## More to explore
-
-- [Bob’s Room](https://bobshenruililin.github.io/bobs-room/): my personal website as a walkable pixel room, filled with interests, stories and places I call home.
-- [When lives span a border](https://bobshenruililin.github.io/jamie-crossing-lives-site/): an interactive companion to Jamie Ko’s research on cross-border lives. Research and presentation by Jamie; visual support by me.
-- [Crossing Lives](https://bobshenruililin.github.io/crossing-lives/): a game about everyday choices between Hong Kong and Shenzhen.
-
-More worlds, questions and experiments to come.
+- [**Asterwind**](https://asterwind.vercel.app/docs/demos/unfolded/?v=2) · A painted studio after hours. Choose who to listen to, put together the hard sentence, and see how it lands.
+- [**Six Flights**](https://six-flights.vercel.app/) · My teammates and I made an illustrated notebook about a rooftop film night. Make three choices, then turn back on Saturday to see what the others wrote in your margins.
+- [**Team Quest**](https://site-51ad073370c1436c8c3d54a7262a195e.freebuff.page/) · A teammate’s prototype that started our game experiments. Here you can actually see trust and energy move as you make a decision.
+- [**When Lives Span a Border**](https://bobshenruililin.github.io/jamie-crossing-lives-site/) · I built visualizations for Jamie Ko’s AsiaGlobal Fellows research on cross-border living.
+- [**Crossing Lives**](https://bobshenruililin.github.io/crossing-lives/) · A separate game about the everyday decisions of living across Hong Kong and Shenzhen.
+- [**Project Contraband**](https://project-contraband.vercel.app/) · With Team Rejected Mafia, I tried making AP revision feel like something you’d send a friend rather than scroll past.
+- [**One Health Lab**](https://github.com/bobshenruililin/one-health-lab) · A team research prototype about what antimicrobial-resistance data can tell us, and where those claims have to stop.
